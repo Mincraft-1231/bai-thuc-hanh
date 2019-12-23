@@ -1,0 +1,93 @@
+#home{
+	background-color: black;
+	color: white;
+}
+
+
+#box-page{
+	width: 1000px;
+	margin: 0px auto;
+	
+}
+.home{
+	background-color: black;
+
+}
+
+#main-menu ul{
+	background: linear-gradient(to right,#76b5e8,#1f5699);	
+	list-style-type: none;
+	display: block;
+	border-bottom: solid 3px #615d5c;
+}
+#main-menu ul  li{
+	display:inline-block;
+	border-right:solid 0.5px #FFFFFF;		
+}
+a{
+	color: white;
+	align: center;
+	text-decoration: none;
+}
+#main-menu ul  li a:hover{
+	background-color: black;
+}
+#main-menu ul  li a{
+	display: block;
+	padding: 20px;
+}
+#body-left #slide-img img{
+	width: 100%;
+}
+.float{	
+	float: left;
+}
+#body-left{
+	width: 750px;
+	float: left;
+}
+#body-right{
+	width: 250px;
+	float: right;
+}
+
+#ngaythang{
+	font-size: 15px;
+	color: #b89ca8;
+}
+.small-img{
+	width: 50%;
+	float: left;
+}
+.clr{
+	clear: both;
+}
+.list-footer{
+	width: 25%;
+	float: left;
+	list-style-type: none;
+}
+#footer{
+	height: 250px;
+	background-color: #252525;
+	color: white;
+}
+hr{
+	display: block; height: 1px;
+    border: 0; border-top: 3px solid #09afe3;
+    margin: 1px 0; padding: 0;
+}
+#chudautienbentrai{
+	font-weight: bold;
+	color: #6a6a60;
+}
+.conten-block ul li{
+  	height: 70px;
+}
+.sb-tabs-wrap{
+	list-style: none;
+	padding-left: 0px;
+}
+.tag{
+	margin-top: 5px;
+}

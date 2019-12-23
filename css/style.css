@@ -1,0 +1,31 @@
+#box-page{
+	width: 1000px;
+	margin: 0px auto;
+	background-color: #f6f5f1;
+}
+#main-menu ul{
+	background: linear-gradient(to right,#76b5e8,#1f5699);	
+	list-style-type: none;
+	display: block;
+	border-bottom: solid 4px #615d5c;
+}
+#main-menu ul li{
+	display:inline-block;
+	border-right:solid 0.2px #FFFFFF;
+}
+#home a{
+	background-color: black;
+	color: white;
+}
+hr{
+	display: block; height: 1px;
+    border: 0; border-top: 3px solid #09afe3;
+    margin: 1px 0; padding: 0;
+}
+#footer-page{
+	background-color: black;
+	color: white;
+}
+.den{
+	background-color: black;
+}
